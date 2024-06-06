@@ -8,9 +8,10 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - Bank-end developer 
+      - Java, Javascript, jQuery, JSP, linux, MYSQL, Oracle, Spring framework, Git, Kubernetes, DevOps, AWS,ELK Stack
+    - AK아이에스 - 제주항공 웹서비스 유지보수(B2C,B2B,B2E,OTA 예약발권) (2016 ~ 현재)
+
     
     Open `_data/authors.yml` to edit this text.
 
