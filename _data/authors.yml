@@ -12,9 +12,6 @@ author1:
       - Java, Javascript, jQuery, JSP, linux, MYSQL, Oracle, Spring framework, Git, Kubernetes, DevOps, AWS,ELK Stack
     - AK아이에스 - 제주항공 웹서비스 유지보수(B2C,B2B,B2E,OTA 예약발권) (2016 ~ 현재)
 
-    
-    Open `_data/authors.yml` to edit this text.
-
   # This photo will be used in the about section
   picture:
     path:            https://via.placeholder.com/128x128
