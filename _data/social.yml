@@ -206,3 +206,8 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+tistory:
+  name: tistory
+  icon: icon-blogger
+  prepend: "https://"
+  append: ".tistory.com"
