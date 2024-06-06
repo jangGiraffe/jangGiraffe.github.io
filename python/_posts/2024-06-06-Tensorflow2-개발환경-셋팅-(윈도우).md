@@ -17,6 +17,7 @@ hide_last_modified: true
 ### 1. 파이썬 설치
 - 내 버전 : Python 3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)] on win32
 ### 2.텐서플로우 라이브러리 설치
+
 ``` python
 # Requires the latest pip
 pip install --upgrade pip
@@ -27,10 +28,13 @@ pip install tensorflow
 # Or try the preview build (unstable)
 pip install tf-nightly
 ```
+
 ### 3. 설치확인
 - 테스트 파일 생성 후 실행해보기기 (waring GPU CUDA~~ 메시지만 안뜨면 성공)
+
 ``` python
 import tensorflow as tf
 ```
+
 ### 4. 참고 (딥러닝을 GPU로 돌리는 이유)
 - GPU를 사용하면 CPU보다 10~20배 빠르게 작업을 완료할 수 있는데, 딥러닝에 필요한 연산은 99%가 행렬 곱 엽산이고, 이거를 GPU가 잘함
