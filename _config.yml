@@ -89,7 +89,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
 
 # favicon(즐겨찾기)
-favicon: /favicon.ico
+favicon: /assets/img/icon/favicon.ico
 apple_touch_icon: /assets/img/icon/apple-icon.png
 
 # Sidebar image and theme color of the site.
