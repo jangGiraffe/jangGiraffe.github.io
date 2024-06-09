@@ -17,7 +17,7 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                개발자 장지랩
@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               꾸준히 공부하려고 만든 블로그입니다.
+tagline:               꾸준히 공부하려고 만든 블로그입니다. 공부하다보면 언젠가 쓰이더라고요. 모두 화이팅 😊
 
 # A list of keywords for your blog
 keywords:              []
