@@ -87,7 +87,11 @@ remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
- 
+
+# favicon(즐겨찾기)
+favicon: /favicon.ico
+apple_touch_icon: /assets/img/icon/apple-icon.png
+
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/profile/bg.png
 accent_color:          rgb(79,177,186)
