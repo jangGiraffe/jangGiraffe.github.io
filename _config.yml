@@ -43,7 +43,7 @@ logo:                  /assets/img/profile/giraffe3.png
 author:
   # Used by `jekyll-feed`:
   name:                JangGiraffe
-  email:               <mail@domain.tld>
+  email:               <jh0233ad@naver.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -51,10 +51,6 @@ author:
 menu:
   - title:             파이썬
     url:               /python/
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
 # Add links to the footer.
